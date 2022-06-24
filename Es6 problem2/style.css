@@ -1,0 +1,14 @@
+body{
+    background-color:#FFFFFF;
+    color:#1f1235 ;
+}
+
+.mon{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+button{
+    background-color: #ff6e6c;
+}
